@@ -60,6 +60,8 @@ I'm a full-stack developer with a passion for building decentralized application
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+---
+
 ## 📈 Activity
 
 <div align="center">
