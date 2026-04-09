@@ -60,22 +60,6 @@ I'm a full-stack developer with a passion for building decentralized application
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senyka0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senyka0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" height="160"/>
-</p>
-
-## 🏆 GitHub Achievements
-
-![YOLO](https://img.shields.io/badge/Achievement-YOLO-yellow?style=for-the-badge)
-![Pull Shark x2](https://img.shields.io/badge/Achievement-Pull%20Shark%20x2-blue?style=for-the-badge)
-
----
-
 ## 📈 Activity
 
 <div align="center">
