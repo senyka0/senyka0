@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Arsenii Koniachenko
 
-### Full-Stack Blockchain Developer
+### Software Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://senyka0.cfd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsenii-koniachenko-1178811ba/)
