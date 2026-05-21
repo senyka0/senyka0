@@ -120,14 +120,6 @@ const arsenii = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=senyka0&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senyka0&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br />
-<br />
-
-<img src="https://streak-stats.demolab.com?user=senyka0&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
 <br />
 <br />
 
