@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7C3AED&height=180&section=header&text=Arsenii%20Koniachenko&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Backend%20/%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Arsenii Koniachenko header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7C3AED&height=180&section=header&text=Arsenii%20Koniachenko&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Backend&descAlignY=58&descSize=18" alt="Arsenii Koniachenko header" />
 
 ### I build production-ready web products, automation systems, and trading/data tools.
 
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Python Backend / Full-Stack Developer** with a strong focus on practical systems: APIs, data flows, automation, product interfaces, trading tools, and Web3 integrations.
+I'm a **Python Backend** with a strong focus on practical systems: APIs, data flows, automation, product interfaces, trading tools, and Web3 integrations.
 
 I like building things that are not just demos: backend services, dashboards, bots, scraping/data pipelines, deployment-ready products, and tools that automate real workflows.
 
@@ -114,20 +114,6 @@ const arsenii = {
   </tr>
 </table>
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senyka0&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
-
-</div>
-
----
 
 ## 🧩 What I Like Building
 
