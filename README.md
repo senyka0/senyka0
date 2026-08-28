@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7C3AED&height=180&section=header&text=Arsenii%20Koniachenko&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Backend&descAlignY=58&descSize=18" alt="Arsenii Koniachenko header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7C3AED&height=180&section=header&text=Arsenii%20Koniachenko&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Python%20Backend%20Developer&descAlignY=58&descSize=18" alt="Arsenii Koniachenko header" />
 
 ### I build production-ready web products, automation systems, and trading/data tools.
 
